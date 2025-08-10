@@ -1,7 +1,11 @@
 🎓 Welcome to your StudyConnect project
 
 📌 Project info
-🔗 URL: studyconnectt.netlify.app
+
+🔗 URL: 
+```
+studyconnectt.netlify.app
+```
 
 🛠 How can I edit this code?
 You have several ways to work on your application:
