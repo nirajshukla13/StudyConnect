@@ -4,7 +4,7 @@
 
 🔗 URL:
 ```
-https://studyconnect.ai/chat/689778452f903a63a6fe1cf6
+studyconnectt.netlify.app
 ```
 🛠 How can I edit this code?
 You have several ways to work on your application:
