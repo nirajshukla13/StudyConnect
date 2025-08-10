@@ -1,7 +1,11 @@
 🎓 Welcome to your StudyConnect project
-📌 Project info
-🔗 URL: https://studyconnect.ai/chat/689778452f903a63a6fe1cf6
 
+📌 Project info
+
+🔗 URL:
+```
+https://studyconnect.ai/chat/689778452f903a63a6fe1cf6
+```
 🛠 How can I edit this code?
 You have several ways to work on your application:
 
@@ -16,16 +20,23 @@ Pushed changes will also be reflected in StudyConnect.
 📌 Requirement: Node.js & npm installed – install with nvm
 
 # 🪄 Step 1: Clone the repository using your GitHub URL
-git clone https://github.com/nirajshukla13/StudyConnect.git
+git clone 
+```
+https://github.com/nirajshukla13/StudyConnect.git
+```
 
 # 📂 Step 2: Navigate to the project directory
+```
 cd StudyConnect
-
+```
 # 📦 Step 3: Install dependencies
+```
 npm i
-
+```
 # 🚀 Step 4: Start the development server
-npm run dev
+
+```npm run dev```
+
 ✏ Edit a file directly in GitHub
 📄 Navigate to the desired file(s) in your repo.
 
@@ -42,12 +53,13 @@ Click New codespace to launch an online development environment.
 Edit files directly, then commit & push your changes.
 
 🖥 Technologies used
+```
 ⚡ JavaScript
 ⚛ React
 🎨 Tailwind CSS
-
+```
 🚀 How can I deploy this project?
-Open StudyConnect → Click Share → Publish ✅
+ Open StudyConnect → Click Share → Publish ✅
 
 🌍 Can I connect a custom domain?
 Yes!
